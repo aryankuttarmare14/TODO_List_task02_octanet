@@ -1,2 +1,2 @@
-# TODO_List_task02_octanet
+# TODO List
 Using HTML CSS &amp; Javascript
